@@ -1,0 +1,2 @@
+com/example/dailybugle/BuildConfig.java
+ com.example.dailybugle.BuildConfig
